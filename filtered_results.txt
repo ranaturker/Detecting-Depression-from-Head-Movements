@@ -1,0 +1,576 @@
+Results for Index1_combined_matrix.csv:
+Accuracy: 82.98%
+Results for Index2_combined_matrix.csv:
+Accuracy: 74.47%
+Results for Index3_combined_matrix.csv:
+Accuracy: 54.61%
+Results for Index4_combined_matrix.csv:
+Accuracy: 48.23%
+Results for Index5_combined_matrix.csv:
+Accuracy: 66.67%
+Results for Index6_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index7_combined_matrix.csv:
+Accuracy: 70.21%
+Results for Index8_combined_matrix.csv:
+Accuracy: 84.40%
+Results for Index9_combined_matrix.csv:
+Accuracy: 76.60%
+Results for Index10_combined_matrix.csv:
+Accuracy: 29.08%
+Results for Index11_combined_matrix.csv:
+Accuracy: 54.61%
+Results for Index12_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index13_combined_matrix.csv:
+Accuracy: 63.83%
+Results for Index14_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index15_combined_matrix.csv:
+Accuracy: 39.01%
+Results for Index16_combined_matrix.csv:
+Accuracy: 64.54%
+Results for Index17_combined_matrix.csv:
+Accuracy: 28.37%
+Results for Index18_combined_matrix.csv:
+Accuracy: 26.95%
+Results for Index19_combined_matrix.csv:
+Accuracy: 81.56%
+Results for Index20_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index21_combined_matrix.csv:
+Accuracy: 76.60%
+Results for Index22_combined_matrix.csv:
+Accuracy: 46.10%
+Results for Index23_combined_matrix.csv:
+Accuracy: 57.45%
+Results for Index24_combined_matrix.csv:
+Accuracy: 79.43%
+Results for Index25_combined_matrix.csv:
+Accuracy: 43.97%
+Results for Index26_combined_matrix.csv:
+Accuracy: 80.14%
+Results for Index27_combined_matrix.csv:
+Accuracy: 58.87%
+Results for Index28_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index29_combined_matrix.csv:
+Accuracy: 85.82%
+Results for Index30_combined_matrix.csv:
+Accuracy: 33.33%
+Results for Index31_combined_matrix.csv:
+Accuracy: 61.70%
+Results for Index32_combined_matrix.csv:
+Accuracy: 77.30%
+Results for Index33_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index34_combined_matrix.csv:
+Accuracy: 51.77%
+Results for Index35_combined_matrix.csv:
+Accuracy: 70.21%
+Results for Index36_combined_matrix.csv:
+Accuracy: 79.43%
+Results for Index37_combined_matrix.csv:
+Accuracy: 82.98%
+Results for Index38_combined_matrix.csv:
+Accuracy: 52.48%
+Results for Index39_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index40_combined_matrix.csv:
+Accuracy: 43.97%
+Results for Index41_combined_matrix.csv:
+Accuracy: 87.94%
+Results for Index42_combined_matrix.csv:
+Accuracy: 39.72%
+Results for Index43_combined_matrix.csv:
+Accuracy: 66.67%
+Results for Index44_combined_matrix.csv:
+Accuracy: 76.60%
+Results for Index45_combined_matrix.csv:
+Accuracy: 85.82%
+Results for Index46_combined_matrix.csv:
+Accuracy: 35.46%
+Results for Index47_combined_matrix.csv:
+Accuracy: 73.05%
+Results for Index48_combined_matrix.csv:
+Accuracy: 57.45%
+Results for Index49_combined_matrix.csv:
+Accuracy: 70.21%
+Results for Index50_combined_matrix.csv:
+Accuracy: 56.03%
+Results for Index51_combined_matrix.csv:
+Accuracy: 79.43%
+Results for Index52_combined_matrix.csv:
+Accuracy: 64.54%
+Results for Index53_combined_matrix.csv:
+Accuracy: 70.21%
+Results for Index54_combined_matrix.csv:
+Accuracy: 75.89%
+Results for Index55_combined_matrix.csv:
+Accuracy: 73.05%
+Results for Index56_combined_matrix.csv:
+Accuracy: 72.34%
+Results for Index57_combined_matrix.csv:
+Accuracy: 85.82%
+Results for Index58_combined_matrix.csv:
+Accuracy: 51.77%
+Results for Index59_combined_matrix.csv:
+Accuracy: 29.08%
+Results for Index60_combined_matrix.csv:
+Accuracy: 77.30%
+Results for Index61_combined_matrix.csv:
+Accuracy: 46.81%
+Results for Index62_combined_matrix.csv:
+Accuracy: 45.39%
+Results for Index63_combined_matrix.csv:
+Accuracy: 74.47%
+Results for Index64_combined_matrix.csv:
+Accuracy: 92.20%
+Results for Index65_combined_matrix.csv:
+Accuracy: 78.72%
+Results for Index66_combined_matrix.csv:
+Accuracy: 51.06%
+Results for Index67_combined_matrix.csv:
+Accuracy: 38.30%
+Results for Index68_combined_matrix.csv:
+Accuracy: 73.05%
+Results for Index69_combined_matrix.csv:
+Accuracy: 75.89%
+Results for Index70_combined_matrix.csv:
+Accuracy: 59.57%
+Results for Index71_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index72_combined_matrix.csv:
+Accuracy: 21.28%
+Results for Index73_combined_matrix.csv:
+Accuracy: 27.66%
+Results for Index74_combined_matrix.csv:
+Accuracy: 75.89%
+Results for Index75_combined_matrix.csv:
+Accuracy: 75.18%
+Results for Index76_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index77_combined_matrix.csv:
+Accuracy: 87.94%
+Results for Index78_combined_matrix.csv:
+Accuracy: 62.41%
+Results for Index79_combined_matrix.csv:
+Accuracy: 32.62%
+Results for Index80_combined_matrix.csv:
+Accuracy: 87.23%
+Results for Index81_combined_matrix.csv:
+Accuracy: 77.30%
+Results for Index82_combined_matrix.csv:
+Accuracy: 67.38%
+Results for Index83_combined_matrix.csv:
+Accuracy: 51.06%
+Results for Index84_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index85_combined_matrix.csv:
+Accuracy: 68.09%
+Results for Index86_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index87_combined_matrix.csv:
+Accuracy: 41.13%
+Results for Index88_combined_matrix.csv:
+Accuracy: 75.18%
+Results for Index89_combined_matrix.csv:
+Accuracy: 36.17%
+Results for Index90_combined_matrix.csv:
+Accuracy: 67.38%
+Results for Index91_combined_matrix.csv:
+Accuracy: 60.99%
+Results for Index92_combined_matrix.csv:
+Accuracy: 70.21%
+Results for Index93_combined_matrix.csv:
+Accuracy: 74.47%
+Results for Index94_combined_matrix.csv:
+Accuracy: 62.41%
+Results for Index95_combined_matrix.csv:
+Accuracy: 34.04%
+Results for Index96_combined_matrix.csv:
+Accuracy: 31.21%
+Results for Index97_combined_matrix.csv:
+Accuracy: 28.37%
+Results for Index98_combined_matrix.csv:
+Accuracy: 80.85%
+Results for Index99_combined_matrix.csv:
+Accuracy: 54.61%
+Results for Index100_combined_matrix.csv:
+Accuracy: 44.68%
+Results for Index101_combined_matrix.csv:
+Accuracy: 78.01%
+Results for Index102_combined_matrix.csv:
+Accuracy: 63.83%
+Results for Index103_combined_matrix.csv:
+Accuracy: 73.76%
+Results for Index104_combined_matrix.csv:
+Accuracy: 62.41%
+Results for Index105_combined_matrix.csv:
+Accuracy: 60.28%
+Results for Index106_combined_matrix.csv:
+Accuracy: 66.67%
+Results for Index107_combined_matrix.csv:
+Accuracy: 15.60%
+Results for Index108_combined_matrix.csv:
+Accuracy: 42.55%
+Results for Index109_combined_matrix.csv:
+Accuracy: 45.39%
+Results for Index110_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index111_combined_matrix.csv:
+Accuracy: 53.90%
+Results for Index112_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index113_combined_matrix.csv:
+Accuracy: 56.03%
+Results for Index114_combined_matrix.csv:
+Accuracy: 57.45%
+Results for Index115_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index116_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index117_combined_matrix.csv:
+Accuracy: 60.99%
+Results for Index118_combined_matrix.csv:
+Accuracy: 80.85%
+Results for Index119_combined_matrix.csv:
+Accuracy: 70.21%
+Results for Index120_combined_matrix.csv:
+Accuracy: 36.88%
+Results for Index121_combined_matrix.csv:
+Accuracy: 42.55%
+Results for Index122_combined_matrix.csv:
+Accuracy: 46.81%
+Results for Index123_combined_matrix.csv:
+Accuracy: 65.96%
+Results for Index124_combined_matrix.csv:
+Accuracy: 57.45%
+Results for Index125_combined_matrix.csv:
+Accuracy: 76.60%
+Results for Index126_combined_matrix.csv:
+Accuracy: 82.98%
+Results for Index127_combined_matrix.csv:
+Accuracy: 74.47%
+Results for Index128_combined_matrix.csv:
+Accuracy: 68.79%
+Results for Index129_combined_matrix.csv:
+Accuracy: 78.72%
+Results for Index130_combined_matrix.csv:
+Accuracy: 72.34%
+Results for Index131_combined_matrix.csv:
+Accuracy: 53.90%
+Results for Index132_combined_matrix.csv:
+Accuracy: 73.76%
+Results for Index133_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index134_combined_matrix.csv:
+Accuracy: 63.12%
+Results for Index135_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index136_combined_matrix.csv:
+Accuracy: 85.11%
+Results for Index137_combined_matrix.csv:
+Accuracy: 72.34%
+Results for Index138_combined_matrix.csv:
+Accuracy: 74.47%
+Results for Index139_combined_matrix.csv:
+Accuracy: 75.89%
+Results for Index140_combined_matrix.csv:
+Accuracy: 81.56%
+Results for Index141_combined_matrix.csv:
+Accuracy: 63.12%
+Results for Index142_combined_matrix.csv:
+Accuracy: 75.18%
+Results for Index143_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index144_combined_matrix.csv:
+Accuracy: 36.17%
+Results for Index145_combined_matrix.csv:
+Accuracy: 18.44%
+Results for Index146_combined_matrix.csv:
+Accuracy: 68.09%
+Results for Index147_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index148_combined_matrix.csv:
+Accuracy: 68.09%
+Results for Index149_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index150_combined_matrix.csv:
+Accuracy: 49.65%
+Results for Index151_combined_matrix.csv:
+Accuracy: 47.52%
+Results for Index152_combined_matrix.csv:
+Accuracy: 79.43%
+Results for Index153_combined_matrix.csv:
+Accuracy: 67.38%
+Results for Index154_combined_matrix.csv:
+Accuracy: 32.62%
+Results for Index155_combined_matrix.csv:
+Accuracy: 62.41%
+Results for Index156_combined_matrix.csv:
+Accuracy: 66.67%
+Results for Index157_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index158_combined_matrix.csv:
+Accuracy: 70.21%
+Results for Index159_combined_matrix.csv:
+Accuracy: 19.86%
+Results for Index160_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index161_combined_matrix.csv:
+Accuracy: 58.16%
+Results for Index162_combined_matrix.csv:
+Accuracy: 68.79%
+Results for Index163_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index164_combined_matrix.csv:
+Accuracy: 43.97%
+Results for Index165_combined_matrix.csv:
+Accuracy: 66.67%
+Results for Index166_combined_matrix.csv:
+Accuracy: 65.96%
+Results for Index167_combined_matrix.csv:
+Accuracy: 85.11%
+Results for Index168_combined_matrix.csv:
+Accuracy: 46.81%
+Results for Index169_combined_matrix.csv:
+Accuracy: 46.10%
+Results for Index170_combined_matrix.csv:
+Accuracy: 78.72%
+Results for Index171_combined_matrix.csv:
+Accuracy: 43.26%
+Results for Index172_combined_matrix.csv:
+Accuracy: 65.25%
+Results for Index173_combined_matrix.csv:
+Accuracy: 56.74%
+Results for Index174_combined_matrix.csv:
+Accuracy: 60.28%
+Results for Index175_combined_matrix.csv:
+Accuracy: 63.12%
+Results for Index176_combined_matrix.csv:
+Accuracy: 77.30%
+Results for Index177_combined_matrix.csv:
+Accuracy: 60.99%
+Results for Index178_combined_matrix.csv:
+Accuracy: 83.69%
+Results for Index179_combined_matrix.csv:
+Accuracy: 67.38%
+Results for Index180_combined_matrix.csv:
+Accuracy: 70.21%
+Results for Index181_combined_matrix.csv:
+Accuracy: 80.14%
+Results for Index182_combined_matrix.csv:
+Accuracy: 66.67%
+Results for Index183_combined_matrix.csv:
+Accuracy: 60.28%
+Results for Index184_combined_matrix.csv:
+Accuracy: 53.90%
+Results for Index185_combined_matrix.csv:
+Accuracy: 67.38%
+Results for Index186_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index187_combined_matrix.csv:
+Accuracy: 63.12%
+Results for Index188_combined_matrix.csv:
+Accuracy: 25.53%
+Results for Index189_combined_matrix.csv:
+Accuracy: 34.04%
+Results for Index190_combined_matrix.csv:
+Accuracy: 72.34%
+Results for Index191_combined_matrix.csv:
+Accuracy: 29.08%
+Results for Index192_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index193_combined_matrix.csv:
+Accuracy: 64.54%
+Results for Index194_combined_matrix.csv:
+Accuracy: 80.14%
+Results for Index195_combined_matrix.csv:
+Accuracy: 79.43%
+Results for Index196_combined_matrix.csv:
+Accuracy: 67.38%
+Results for Index197_combined_matrix.csv:
+Accuracy: 31.91%
+Results for Index198_combined_matrix.csv:
+Accuracy: 73.76%
+Results for Index199_combined_matrix.csv:
+Accuracy: 68.79%
+Results for Index200_combined_matrix.csv:
+Accuracy: 29.08%
+Results for Index201_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index202_combined_matrix.csv:
+Accuracy: 83.69%
+Results for Index203_combined_matrix.csv:
+Accuracy: 85.82%
+Results for Index204_combined_matrix.csv:
+Accuracy: 68.79%
+Results for Index205_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index206_combined_matrix.csv:
+Accuracy: 78.72%
+Results for Index207_combined_matrix.csv:
+Accuracy: 67.38%
+Results for Index208_combined_matrix.csv:
+Accuracy: 21.99%
+Results for Index209_combined_matrix.csv:
+Accuracy: 65.25%
+Results for Index210_combined_matrix.csv:
+Accuracy: 56.03%
+Results for Index211_combined_matrix.csv:
+Accuracy: 32.62%
+Results for Index212_combined_matrix.csv:
+Accuracy: 68.09%
+Results for Index213_combined_matrix.csv:
+Accuracy: 73.76%
+Results for Index214_combined_matrix.csv:
+Accuracy: 80.14%
+Results for Index215_combined_matrix.csv:
+Accuracy: 68.79%
+Results for Index216_combined_matrix.csv:
+Accuracy: 67.38%
+Results for Index217_combined_matrix.csv:
+Accuracy: 88.65%
+Results for Index218_combined_matrix.csv:
+Accuracy: 77.30%
+Results for Index219_combined_matrix.csv:
+Accuracy: 78.01%
+Results for Index220_combined_matrix.csv:
+Accuracy: 78.72%
+Results for Index221_combined_matrix.csv:
+Accuracy: 73.76%
+Results for Index222_combined_matrix.csv:
+Accuracy: 72.34%
+Results for Index223_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index224_combined_matrix.csv:
+Accuracy: 68.09%
+Results for Index225_combined_matrix.csv:
+Accuracy: 58.87%
+Results for Index226_combined_matrix.csv:
+Accuracy: 77.30%
+Results for Index227_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index228_combined_matrix.csv:
+Accuracy: 95.74%
+Results for Index229_combined_matrix.csv:
+Accuracy: 68.79%
+Results for Index230_combined_matrix.csv:
+Accuracy: 73.05%
+Results for Index231_combined_matrix.csv:
+Accuracy: 31.91%
+Results for Index232_combined_matrix.csv:
+Accuracy: 29.08%
+Results for Index233_combined_matrix.csv:
+Accuracy: 27.66%
+Results for Index234_combined_matrix.csv:
+Accuracy: 62.41%
+Results for Index235_combined_matrix.csv:
+Accuracy: 48.23%
+Results for Index236_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index237_combined_matrix.csv:
+Accuracy: 77.30%
+Results for Index238_combined_matrix.csv:
+Accuracy: 78.01%
+Results for Index239_combined_matrix.csv:
+Accuracy: 43.26%
+Results for Index240_combined_matrix.csv:
+Accuracy: 78.01%
+Results for Index241_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index242_combined_matrix.csv:
+Accuracy: 47.52%
+Results for Index243_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index244_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index245_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index246_combined_matrix.csv:
+Accuracy: 51.77%
+Results for Index247_combined_matrix.csv:
+Accuracy: 69.50%
+Results for Index248_combined_matrix.csv:
+Accuracy: 51.77%
+Results for Index249_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index250_combined_matrix.csv:
+Accuracy: 32.62%
+Results for Index251_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index252_combined_matrix.csv:
+Accuracy: 76.60%
+Results for Index253_combined_matrix.csv:
+Accuracy: 73.76%
+Results for Index254_combined_matrix.csv:
+Accuracy: 72.34%
+Results for Index255_combined_matrix.csv:
+Accuracy: 32.62%
+Results for Index256_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index257_combined_matrix.csv:
+Accuracy: 47.52%
+Results for Index258_combined_matrix.csv:
+Accuracy: 24.11%
+Results for Index259_combined_matrix.csv:
+Accuracy: 73.76%
+Results for Index260_combined_matrix.csv:
+Accuracy: 52.48%
+Results for Index261_combined_matrix.csv:
+Accuracy: 77.30%
+Results for Index262_combined_matrix.csv:
+Accuracy: 39.01%
+Results for Index263_combined_matrix.csv:
+Accuracy: 34.04%
+Results for Index264_combined_matrix.csv:
+Accuracy: 82.98%
+Results for Index265_combined_matrix.csv:
+Accuracy: 66.67%
+Results for Index266_combined_matrix.csv:
+Accuracy: 43.26%
+Results for Index267_combined_matrix.csv:
+Accuracy: 33.33%
+Results for Index268_combined_matrix.csv:
+Accuracy: 66.67%
+Results for Index269_combined_matrix.csv:
+Accuracy: 58.16%
+Results for Index270_combined_matrix.csv:
+Accuracy: 42.55%
+Results for Index271_combined_matrix.csv:
+Accuracy: 65.96%
+Results for Index272_combined_matrix.csv:
+Accuracy: 68.09%
+Results for Index273_combined_matrix.csv:
+Accuracy: 56.03%
+Results for Index274_combined_matrix.csv:
+Accuracy: 71.63%
+Results for Index275_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index276_combined_matrix.csv:
+Accuracy: 72.34%
+Results for Index277_combined_matrix.csv:
+Accuracy: 85.82%
+Results for Index278_combined_matrix.csv:
+Accuracy: 36.88%
+Results for Index279_combined_matrix.csv:
+Accuracy: 73.76%
+Results for Index280_combined_matrix.csv:
+Accuracy: 63.12%
+Results for Index281_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index282_combined_matrix.csv:
+Accuracy: 64.54%
+Results for Index283_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index284_combined_matrix.csv:
+Accuracy: 63.12%
+Results for Index285_combined_matrix.csv:
+Accuracy: 68.79%
+Results for Index286_combined_matrix.csv:
+Accuracy: 70.92%
+Results for Index287_combined_matrix.csv:
+Accuracy: 79.43%
+Results for Index288_combined_matrix.csv:
+Accuracy: 60.28%

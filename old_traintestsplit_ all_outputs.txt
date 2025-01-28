@@ -1,0 +1,3746 @@
+SVM Training Results for All Matrices
+
+Results for Index1_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.60      0.69        30
+           1       0.43      0.69      0.53        13
+
+    accuracy                           0.63        43
+   macro avg       0.62      0.65      0.61        43
+weighted avg       0.70      0.63      0.64        43
+
+
+Results for Index2_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.79      0.81        33
+           1       0.42      0.50      0.45        10
+
+    accuracy                           0.72        43
+   macro avg       0.63      0.64      0.63        43
+weighted avg       0.74      0.72      0.73        43
+
+
+Results for Index3_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.70      0.78        30
+           1       0.53      0.77      0.62        13
+
+    accuracy                           0.72        43
+   macro avg       0.70      0.73      0.70        43
+weighted avg       0.77      0.72      0.73        43
+
+
+Results for Index4_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.75      0.76        32
+           1       0.33      0.36      0.35        11
+
+    accuracy                           0.65        43
+   macro avg       0.55      0.56      0.55        43
+weighted avg       0.66      0.65      0.66        43
+
+
+Results for Index5_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.79      0.75        29
+           1       0.45      0.36      0.40        14
+
+    accuracy                           0.65        43
+   macro avg       0.59      0.58      0.58        43
+weighted avg       0.63      0.65      0.64        43
+
+
+Results for Index6_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.78      0.74        27
+           1       0.54      0.44      0.48        16
+
+    accuracy                           0.65        43
+   macro avg       0.62      0.61      0.61        43
+weighted avg       0.64      0.65      0.64        43
+
+
+Results for Index7_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.65      0.70        31
+           1       0.35      0.50      0.41        12
+
+    accuracy                           0.60        43
+   macro avg       0.56      0.57      0.56        43
+weighted avg       0.65      0.60      0.62        43
+
+
+Results for Index8_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.75      0.78        28
+           1       0.59      0.67      0.62        15
+
+    accuracy                           0.72        43
+   macro avg       0.70      0.71      0.70        43
+weighted avg       0.73      0.72      0.72        43
+
+
+Results for Index9_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.52      0.59        25
+           1       0.50      0.67      0.57        18
+
+    accuracy                           0.58        43
+   macro avg       0.59      0.59      0.58        43
+weighted avg       0.61      0.58      0.58        43
+
+
+Results for Index10_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.69      0.77        32
+           1       0.44      0.73      0.55        11
+
+    accuracy                           0.70        43
+   macro avg       0.66      0.71      0.66        43
+weighted avg       0.77      0.70      0.72        43
+
+
+Results for Index11_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.70      0.72        30
+           1       0.40      0.46      0.43        13
+
+    accuracy                           0.63        43
+   macro avg       0.57      0.58      0.58        43
+weighted avg       0.64      0.63      0.63        43
+
+
+Results for Index12_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.70      0.72        30
+           1       0.40      0.46      0.43        13
+
+    accuracy                           0.63        43
+   macro avg       0.57      0.58      0.58        43
+weighted avg       0.64      0.63      0.63        43
+
+
+Results for Index13_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.67      0.69        27
+           1       0.50      0.56      0.53        16
+
+    accuracy                           0.63        43
+   macro avg       0.61      0.61      0.61        43
+weighted avg       0.64      0.63      0.63        43
+
+
+Results for Index14_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.71      0.73        31
+           1       0.36      0.42      0.38        12
+
+    accuracy                           0.63        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.65      0.63      0.64        43
+
+
+Results for Index15_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.68      0.71        34
+           1       0.08      0.11      0.10         9
+
+    accuracy                           0.56        43
+   macro avg       0.41      0.39      0.40        43
+weighted avg       0.60      0.56      0.58        43
+
+
+Results for Index16_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.58      0.65        31
+           1       0.32      0.50      0.39        12
+
+    accuracy                           0.56        43
+   macro avg       0.53      0.54      0.52        43
+weighted avg       0.63      0.56      0.58        43
+
+
+Results for Index17_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.61      0.75        36
+           1       0.30      0.86      0.44         7
+
+    accuracy                           0.65        43
+   macro avg       0.63      0.73      0.60        43
+weighted avg       0.85      0.65      0.70        43
+
+
+Results for Index18_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.67      0.74        30
+           1       0.47      0.69      0.56        13
+
+    accuracy                           0.67        43
+   macro avg       0.65      0.68      0.65        43
+weighted avg       0.72      0.67      0.69        43
+
+
+Results for Index19_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.72      0.74        29
+           1       0.47      0.50      0.48        14
+
+    accuracy                           0.65        43
+   macro avg       0.61      0.61      0.61        43
+weighted avg       0.66      0.65      0.65        43
+
+
+Results for Index20_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.83      0.77        30
+           1       0.38      0.23      0.29        13
+
+    accuracy                           0.65        43
+   macro avg       0.54      0.53      0.53        43
+weighted avg       0.61      0.65      0.62        43
+
+
+Results for Index21_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.75      0.80        32
+           1       0.47      0.64      0.54        11
+
+    accuracy                           0.72        43
+   macro avg       0.66      0.69      0.67        43
+weighted avg       0.76      0.72      0.73        43
+
+
+Results for Index22_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.77      0.79        30
+           1       0.53      0.62      0.57        13
+
+    accuracy                           0.72        43
+   macro avg       0.68      0.69      0.68        43
+weighted avg       0.73      0.72      0.73        43
+
+
+Results for Index23_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.78      0.74        27
+           1       0.54      0.44      0.48        16
+
+    accuracy                           0.65        43
+   macro avg       0.62      0.61      0.61        43
+weighted avg       0.64      0.65      0.64        43
+
+
+Results for Index24_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.71      0.73        31
+           1       0.36      0.42      0.38        12
+
+    accuracy                           0.63        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.65      0.63      0.64        43
+
+
+Results for Index25_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.72      0.74        29
+           1       0.47      0.50      0.48        14
+
+    accuracy                           0.65        43
+   macro avg       0.61      0.61      0.61        43
+weighted avg       0.66      0.65      0.65        43
+
+
+Results for Index26_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.74      0.74        27
+           1       0.56      0.56      0.56        16
+
+    accuracy                           0.67        43
+   macro avg       0.65      0.65      0.65        43
+weighted avg       0.67      0.67      0.67        43
+
+
+Results for Index27_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.72      0.74        29
+           1       0.47      0.50      0.48        14
+
+    accuracy                           0.65        43
+   macro avg       0.61      0.61      0.61        43
+weighted avg       0.66      0.65      0.65        43
+
+
+Results for Index28_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.68      0.71        31
+           1       0.33      0.42      0.37        12
+
+    accuracy                           0.60        43
+   macro avg       0.54      0.55      0.54        43
+weighted avg       0.63      0.60      0.62        43
+
+
+Results for Index29_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.59      0.67        32
+           1       0.28      0.45      0.34        11
+
+    accuracy                           0.56        43
+   macro avg       0.52      0.52      0.51        43
+weighted avg       0.64      0.56      0.58        43
+
+
+Results for Index30_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.73      0.76        33
+           1       0.31      0.40      0.35        10
+
+    accuracy                           0.65        43
+   macro avg       0.55      0.56      0.55        43
+weighted avg       0.69      0.65      0.67        43
+
+
+Results for Index31_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.73      0.75        30
+           1       0.43      0.46      0.44        13
+
+    accuracy                           0.65        43
+   macro avg       0.59      0.60      0.60        43
+weighted avg       0.66      0.65      0.65        43
+
+
+Results for Index32_combined_matrix.csv:
+Accuracy: 53.49%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.50      0.75      0.60        20
+           1       0.62      0.35      0.44        23
+
+    accuracy                           0.53        43
+   macro avg       0.56      0.55      0.52        43
+weighted avg       0.56      0.53      0.52        43
+
+
+Results for Index33_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.73      0.66      0.69        29
+           1       0.41      0.50      0.45        14
+
+    accuracy                           0.60        43
+   macro avg       0.57      0.58      0.57        43
+weighted avg       0.63      0.60      0.61        43
+
+
+Results for Index34_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.75      0.81        32
+           1       0.50      0.73      0.59        11
+
+    accuracy                           0.74        43
+   macro avg       0.69      0.74      0.70        43
+weighted avg       0.79      0.74      0.76        43
+
+
+Results for Index35_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.62      0.67        29
+           1       0.39      0.50      0.44        14
+
+    accuracy                           0.58        43
+   macro avg       0.55      0.56      0.55        43
+weighted avg       0.61      0.58      0.59        43
+
+
+Results for Index36_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.64      0.68        28
+           1       0.44      0.53      0.48        15
+
+    accuracy                           0.60        43
+   macro avg       0.58      0.59      0.58        43
+weighted avg       0.62      0.60      0.61        43
+
+
+Results for Index37_combined_matrix.csv:
+Accuracy: 48.84%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.59      0.71      0.65        28
+           1       0.11      0.07      0.08        15
+
+    accuracy                           0.49        43
+   macro avg       0.35      0.39      0.36        43
+weighted avg       0.42      0.49      0.45        43
+
+
+Results for Index38_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.75      0.70        28
+           1       0.36      0.27      0.31        15
+
+    accuracy                           0.58        43
+   macro avg       0.51      0.51      0.50        43
+weighted avg       0.55      0.58      0.56        43
+
+
+Results for Index39_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.69      0.73        29
+           1       0.47      0.57      0.52        14
+
+    accuracy                           0.65        43
+   macro avg       0.62      0.63      0.62        43
+weighted avg       0.67      0.65      0.66        43
+
+
+Results for Index40_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.79      0.77        28
+           1       0.57      0.53      0.55        15
+
+    accuracy                           0.70        43
+   macro avg       0.67      0.66      0.66        43
+weighted avg       0.69      0.70      0.70        43
+
+
+Results for Index41_combined_matrix.csv:
+Accuracy: 53.49%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.64      0.59      0.62        27
+           1       0.39      0.44      0.41        16
+
+    accuracy                           0.53        43
+   macro avg       0.51      0.52      0.51        43
+weighted avg       0.55      0.53      0.54        43
+
+
+Results for Index42_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.66      0.70        29
+           1       0.44      0.57      0.50        14
+
+    accuracy                           0.63        43
+   macro avg       0.60      0.61      0.60        43
+weighted avg       0.66      0.63      0.64        43
+
+
+Results for Index43_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.66      0.67        29
+           1       0.33      0.36      0.34        14
+
+    accuracy                           0.56        43
+   macro avg       0.51      0.51      0.51        43
+weighted avg       0.57      0.56      0.56        43
+
+
+Results for Index44_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.67      0.69        30
+           1       0.33      0.38      0.36        13
+
+    accuracy                           0.58        43
+   macro avg       0.52      0.53      0.52        43
+weighted avg       0.60      0.58      0.59        43
+
+
+Results for Index45_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.62      0.54      0.58        24
+           1       0.50      0.58      0.54        19
+
+    accuracy                           0.56        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.57      0.56      0.56        43
+
+
+Results for Index46_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.70      0.70        30
+           1       0.31      0.31      0.31        13
+
+    accuracy                           0.58        43
+   macro avg       0.50      0.50      0.50        43
+weighted avg       0.58      0.58      0.58        43
+
+
+Results for Index47_combined_matrix.csv:
+Accuracy: 48.84%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.53      0.59        30
+           1       0.26      0.38      0.31        13
+
+    accuracy                           0.49        43
+   macro avg       0.46      0.46      0.45        43
+weighted avg       0.54      0.49      0.51        43
+
+
+Results for Index48_combined_matrix.csv:
+Accuracy: 51.16%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.65      0.54      0.59        28
+           1       0.35      0.47      0.40        15
+
+    accuracy                           0.51        43
+   macro avg       0.50      0.50      0.49        43
+weighted avg       0.55      0.51      0.52        43
+
+
+Results for Index49_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.72      0.79        29
+           1       0.58      0.79      0.67        14
+
+    accuracy                           0.74        43
+   macro avg       0.73      0.75      0.73        43
+weighted avg       0.78      0.74      0.75        43
+
+
+Results for Index50_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.74      0.78        27
+           1       0.63      0.75      0.69        16
+
+    accuracy                           0.74        43
+   macro avg       0.73      0.75      0.74        43
+weighted avg       0.76      0.74      0.75        43
+
+
+Results for Index51_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.66      0.71        32
+           1       0.31      0.45      0.37        11
+
+    accuracy                           0.60        43
+   macro avg       0.55      0.56      0.54        43
+weighted avg       0.66      0.60      0.62        43
+
+
+Results for Index52_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.80      0.81        30
+           1       0.57      0.62      0.59        13
+
+    accuracy                           0.74        43
+   macro avg       0.70      0.71      0.70        43
+weighted avg       0.75      0.74      0.75        43
+
+
+Results for Index53_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.79      0.73        28
+           1       0.45      0.33      0.38        15
+
+    accuracy                           0.63        43
+   macro avg       0.57      0.56      0.56        43
+weighted avg       0.61      0.63      0.61        43
+
+
+Results for Index54_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.68      0.77        37
+           1       0.20      0.50      0.29         6
+
+    accuracy                           0.65        43
+   macro avg       0.55      0.59      0.53        43
+weighted avg       0.80      0.65      0.70        43
+
+
+Results for Index55_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.55      0.67        29
+           1       0.46      0.79      0.58        14
+
+    accuracy                           0.63        43
+   macro avg       0.65      0.67      0.62        43
+weighted avg       0.72      0.63      0.64        43
+
+
+Results for Index56_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.66      0.74        32
+           1       0.39      0.64      0.48        11
+
+    accuracy                           0.65        43
+   macro avg       0.61      0.65      0.61        43
+weighted avg       0.72      0.65      0.67        43
+
+
+Results for Index57_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.63      0.72        30
+           1       0.45      0.69      0.55        13
+
+    accuracy                           0.65        43
+   macro avg       0.64      0.66      0.63        43
+weighted avg       0.71      0.65      0.67        43
+
+
+Results for Index58_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.72      0.77        32
+           1       0.40      0.55      0.46        11
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.63      0.61        43
+weighted avg       0.71      0.67      0.69        43
+
+
+Results for Index59_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.64      0.72      0.68        25
+           1       0.53      0.44      0.48        18
+
+    accuracy                           0.60        43
+   macro avg       0.59      0.58      0.58        43
+weighted avg       0.60      0.60      0.60        43
+
+
+Results for Index60_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.63      0.73        35
+           1       0.28      0.62      0.38         8
+
+    accuracy                           0.63        43
+   macro avg       0.58      0.63      0.56        43
+weighted avg       0.77      0.63      0.67        43
+
+
+Results for Index61_combined_matrix.csv:
+Accuracy: 79.07%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.90      0.85        29
+           1       0.73      0.57      0.64        14
+
+    accuracy                           0.79        43
+   macro avg       0.77      0.73      0.75        43
+weighted avg       0.78      0.79      0.78        43
+
+
+Results for Index62_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.81      0.77        31
+           1       0.33      0.25      0.29        12
+
+    accuracy                           0.65        43
+   macro avg       0.53      0.53      0.53        43
+weighted avg       0.62      0.65      0.63        43
+
+
+Results for Index63_combined_matrix.csv:
+Accuracy: 53.49%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.54      0.60        28
+           1       0.38      0.53      0.44        15
+
+    accuracy                           0.53        43
+   macro avg       0.53      0.53      0.52        43
+weighted avg       0.58      0.53      0.55        43
+
+
+Results for Index64_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.69      0.71        29
+           1       0.44      0.50      0.47        14
+
+    accuracy                           0.63        43
+   macro avg       0.59      0.59      0.59        43
+weighted avg       0.64      0.63      0.63        43
+
+
+Results for Index65_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.74      0.77        31
+           1       0.43      0.50      0.46        12
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.62      0.61        43
+weighted avg       0.69      0.67      0.68        43
+
+
+Results for Index66_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.64      0.73        36
+           1       0.19      0.43      0.26         7
+
+    accuracy                           0.60        43
+   macro avg       0.52      0.53      0.50        43
+weighted avg       0.74      0.60      0.65        43
+
+
+Results for Index67_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.50      0.64        30
+           1       0.42      0.85      0.56        13
+
+    accuracy                           0.60        43
+   macro avg       0.65      0.67      0.60        43
+weighted avg       0.74      0.60      0.62        43
+
+
+Results for Index68_combined_matrix.csv:
+Accuracy: 53.49%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.54      0.60        28
+           1       0.38      0.53      0.44        15
+
+    accuracy                           0.53        43
+   macro avg       0.53      0.53      0.52        43
+weighted avg       0.58      0.53      0.55        43
+
+
+Results for Index69_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.77      0.80        31
+           1       0.50      0.58      0.54        12
+
+    accuracy                           0.72        43
+   macro avg       0.66      0.68      0.67        43
+weighted avg       0.74      0.72      0.73        43
+
+
+Results for Index70_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.71      0.74        28
+           1       0.53      0.60      0.56        15
+
+    accuracy                           0.67        43
+   macro avg       0.65      0.66      0.65        43
+weighted avg       0.69      0.67      0.68        43
+
+
+Results for Index71_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.75      0.77        32
+           1       0.38      0.45      0.42        11
+
+    accuracy                           0.67        43
+   macro avg       0.59      0.60      0.60        43
+weighted avg       0.69      0.67      0.68        43
+
+
+Results for Index72_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.70      0.71        30
+           1       0.36      0.38      0.37        13
+
+    accuracy                           0.60        43
+   macro avg       0.54      0.54      0.54        43
+weighted avg       0.61      0.60      0.61        43
+
+
+Results for Index73_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.74      0.75        27
+           1       0.59      0.62      0.61        16
+
+    accuracy                           0.70        43
+   macro avg       0.68      0.68      0.68        43
+weighted avg       0.70      0.70      0.70        43
+
+
+Results for Index74_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.65      0.79      0.71        28
+           1       0.33      0.20      0.25        15
+
+    accuracy                           0.58        43
+   macro avg       0.49      0.49      0.48        43
+weighted avg       0.54      0.58      0.55        43
+
+
+Results for Index75_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.83      0.74        29
+           1       0.29      0.14      0.19        14
+
+    accuracy                           0.60        43
+   macro avg       0.48      0.49      0.46        43
+weighted avg       0.54      0.60      0.56        43
+
+
+Results for Index76_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.65      0.68        31
+           1       0.27      0.33      0.30        12
+
+    accuracy                           0.56        43
+   macro avg       0.49      0.49      0.49        43
+weighted avg       0.59      0.56      0.57        43
+
+
+Results for Index77_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.66      0.71        32
+           1       0.31      0.45      0.37        11
+
+    accuracy                           0.60        43
+   macro avg       0.55      0.56      0.54        43
+weighted avg       0.66      0.60      0.62        43
+
+
+Results for Index78_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.76      0.79        33
+           1       0.38      0.50      0.43        10
+
+    accuracy                           0.70        43
+   macro avg       0.61      0.63      0.61        43
+weighted avg       0.73      0.70      0.71        43
+
+
+Results for Index79_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.87      0.82        31
+           1       0.50      0.33      0.40        12
+
+    accuracy                           0.72        43
+   macro avg       0.64      0.60      0.61        43
+weighted avg       0.70      0.72      0.70        43
+
+
+Results for Index80_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.70      0.70        23
+           1       0.65      0.65      0.65        20
+
+    accuracy                           0.67        43
+   macro avg       0.67      0.67      0.67        43
+weighted avg       0.67      0.67      0.67        43
+
+
+Results for Index81_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.65      0.73        34
+           1       0.29      0.56      0.38         9
+
+    accuracy                           0.63        43
+   macro avg       0.57      0.60      0.56        43
+weighted avg       0.73      0.63      0.66        43
+
+
+Results for Index82_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.92      0.70      0.79        33
+           1       0.44      0.80      0.57        10
+
+    accuracy                           0.72        43
+   macro avg       0.68      0.75      0.68        43
+weighted avg       0.81      0.72      0.74        43
+
+
+Results for Index83_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.58      0.67        31
+           1       0.35      0.58      0.44        12
+
+    accuracy                           0.58        43
+   macro avg       0.57      0.58      0.55        43
+weighted avg       0.66      0.58      0.60        43
+
+
+Results for Index84_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.70      0.74        30
+           1       0.44      0.54      0.48        13
+
+    accuracy                           0.65        43
+   macro avg       0.61      0.62      0.61        43
+weighted avg       0.67      0.65      0.66        43
+
+
+Results for Index85_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.70      0.69        27
+           1       0.47      0.44      0.45        16
+
+    accuracy                           0.60        43
+   macro avg       0.57      0.57      0.57        43
+weighted avg       0.60      0.60      0.60        43
+
+
+Results for Index86_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.65      0.69        31
+           1       0.31      0.42      0.36        12
+
+    accuracy                           0.58        43
+   macro avg       0.53      0.53      0.52        43
+weighted avg       0.62      0.58      0.60        43
+
+
+Results for Index87_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.64      0.72        33
+           1       0.33      0.60      0.43        10
+
+    accuracy                           0.63        43
+   macro avg       0.59      0.62      0.58        43
+weighted avg       0.72      0.63      0.66        43
+
+
+Results for Index88_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.69      0.69        26
+           1       0.53      0.53      0.53        17
+
+    accuracy                           0.63        43
+   macro avg       0.61      0.61      0.61        43
+weighted avg       0.63      0.63      0.63        43
+
+
+Results for Index89_combined_matrix.csv:
+Accuracy: 76.74%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.86      0.83        29
+           1       0.67      0.57      0.62        14
+
+    accuracy                           0.77        43
+   macro avg       0.74      0.72      0.72        43
+weighted avg       0.76      0.77      0.76        43
+
+
+Results for Index90_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.65      0.69        26
+           1       0.55      0.65      0.59        17
+
+    accuracy                           0.65        43
+   macro avg       0.64      0.65      0.64        43
+weighted avg       0.66      0.65      0.65        43
+
+
+Results for Index91_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.77      0.77        31
+           1       0.42      0.42      0.42        12
+
+    accuracy                           0.67        43
+   macro avg       0.60      0.60      0.60        43
+weighted avg       0.67      0.67      0.67        43
+
+
+Results for Index92_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.77      0.75        30
+           1       0.42      0.38      0.40        13
+
+    accuracy                           0.65        43
+   macro avg       0.58      0.58      0.58        43
+weighted avg       0.64      0.65      0.65        43
+
+
+Results for Index93_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.71      0.79        34
+           1       0.38      0.67      0.48         9
+
+    accuracy                           0.70        43
+   macro avg       0.63      0.69      0.63        43
+weighted avg       0.78      0.70      0.72        43
+
+
+Results for Index94_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.79      0.78        29
+           1       0.54      0.50      0.52        14
+
+    accuracy                           0.70        43
+   macro avg       0.65      0.65      0.65        43
+weighted avg       0.69      0.70      0.69        43
+
+
+Results for Index95_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.68      0.71        31
+           1       0.33      0.42      0.37        12
+
+    accuracy                           0.60        43
+   macro avg       0.54      0.55      0.54        43
+weighted avg       0.63      0.60      0.62        43
+
+
+Results for Index96_combined_matrix.csv:
+Accuracy: 48.84%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.59      0.63      0.61        27
+           1       0.29      0.25      0.27        16
+
+    accuracy                           0.49        43
+   macro avg       0.44      0.44      0.44        43
+weighted avg       0.47      0.49      0.48        43
+
+
+Results for Index97_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.74      0.70        27
+           1       0.46      0.38      0.41        16
+
+    accuracy                           0.60        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.59      0.60      0.59        43
+
+
+Results for Index98_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.71      0.76        31
+           1       0.44      0.58      0.50        12
+
+    accuracy                           0.67        43
+   macro avg       0.63      0.65      0.63        43
+weighted avg       0.71      0.67      0.69        43
+
+
+Results for Index99_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.74      0.81        31
+           1       0.53      0.75      0.62        12
+
+    accuracy                           0.74        43
+   macro avg       0.71      0.75      0.71        43
+weighted avg       0.79      0.74      0.76        43
+
+
+Results for Index100_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.73      0.76        33
+           1       0.31      0.40      0.35        10
+
+    accuracy                           0.65        43
+   macro avg       0.55      0.56      0.55        43
+weighted avg       0.69      0.65      0.67        43
+
+
+Results for Index101_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.62      0.68        26
+           1       0.55      0.71      0.62        17
+
+    accuracy                           0.65        43
+   macro avg       0.65      0.66      0.65        43
+weighted avg       0.68      0.65      0.65        43
+
+
+Results for Index102_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.71      0.79        34
+           1       0.38      0.67      0.48         9
+
+    accuracy                           0.70        43
+   macro avg       0.63      0.69      0.63        43
+weighted avg       0.78      0.70      0.72        43
+
+
+Results for Index103_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.69      0.70        29
+           1       0.40      0.43      0.41        14
+
+    accuracy                           0.60        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.61      0.60      0.61        43
+
+
+Results for Index104_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.83      0.79        29
+           1       0.55      0.43      0.48        14
+
+    accuracy                           0.70        43
+   macro avg       0.65      0.63      0.63        43
+weighted avg       0.68      0.70      0.69        43
+
+
+Results for Index105_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.65      0.67        26
+           1       0.50      0.53      0.51        17
+
+    accuracy                           0.60        43
+   macro avg       0.59      0.59      0.59        43
+weighted avg       0.61      0.60      0.61        43
+
+
+Results for Index106_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.75      0.71        28
+           1       0.42      0.33      0.37        15
+
+    accuracy                           0.60        43
+   macro avg       0.55      0.54      0.54        43
+weighted avg       0.59      0.60      0.59        43
+
+
+Results for Index107_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.63      0.67        27
+           1       0.47      0.56      0.51        16
+
+    accuracy                           0.60        43
+   macro avg       0.59      0.60      0.59        43
+weighted avg       0.62      0.60      0.61        43
+
+
+Results for Index108_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.73      0.76        30
+           1       0.47      0.54      0.50        13
+
+    accuracy                           0.67        43
+   macro avg       0.63      0.64      0.63        43
+weighted avg       0.69      0.67      0.68        43
+
+
+Results for Index109_combined_matrix.csv:
+Accuracy: 51.16%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.61      0.66        33
+           1       0.13      0.20      0.16        10
+
+    accuracy                           0.51        43
+   macro avg       0.42      0.40      0.41        43
+weighted avg       0.58      0.51      0.54        43
+
+
+Results for Index110_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.78      0.81        32
+           1       0.46      0.55      0.50        11
+
+    accuracy                           0.72        43
+   macro avg       0.65      0.66      0.65        43
+weighted avg       0.74      0.72      0.73        43
+
+
+Results for Index111_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.67      0.73        33
+           1       0.31      0.50      0.38        10
+
+    accuracy                           0.63        43
+   macro avg       0.56      0.58      0.56        43
+weighted avg       0.70      0.63      0.65        43
+
+
+Results for Index112_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.79      0.79        28
+           1       0.60      0.60      0.60        15
+
+    accuracy                           0.72        43
+   macro avg       0.69      0.69      0.69        43
+weighted avg       0.72      0.72      0.72        43
+
+
+Results for Index113_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.60      0.67        30
+           1       0.37      0.54      0.44        13
+
+    accuracy                           0.58        43
+   macro avg       0.56      0.57      0.55        43
+weighted avg       0.63      0.58      0.60        43
+
+
+Results for Index114_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.67      0.71        27
+           1       0.53      0.62      0.57        16
+
+    accuracy                           0.65        43
+   macro avg       0.64      0.65      0.64        43
+weighted avg       0.67      0.65      0.66        43
+
+
+Results for Index115_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.73      0.75        30
+           1       0.43      0.46      0.44        13
+
+    accuracy                           0.65        43
+   macro avg       0.59      0.60      0.60        43
+weighted avg       0.66      0.65      0.65        43
+
+
+Results for Index116_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.83      0.74        24
+           1       0.69      0.47      0.56        19
+
+    accuracy                           0.67        43
+   macro avg       0.68      0.65      0.65        43
+weighted avg       0.68      0.67      0.66        43
+
+
+Results for Index117_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.74      0.75        31
+           1       0.38      0.42      0.40        12
+
+    accuracy                           0.65        43
+   macro avg       0.58      0.58      0.58        43
+weighted avg       0.66      0.65      0.66        43
+
+
+Results for Index118_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.68      0.71        31
+           1       0.33      0.42      0.37        12
+
+    accuracy                           0.60        43
+   macro avg       0.54      0.55      0.54        43
+weighted avg       0.63      0.60      0.62        43
+
+
+Results for Index119_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.57      0.65        30
+           1       0.38      0.62      0.47        13
+
+    accuracy                           0.58        43
+   macro avg       0.58      0.59      0.56        43
+weighted avg       0.65      0.58      0.60        43
+
+
+Results for Index120_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.73      0.63      0.68        30
+           1       0.35      0.46      0.40        13
+
+    accuracy                           0.58        43
+   macro avg       0.54      0.55      0.54        43
+weighted avg       0.62      0.58      0.59        43
+
+
+Results for Index121_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.73      0.79        30
+           1       0.53      0.69      0.60        13
+
+    accuracy                           0.72        43
+   macro avg       0.69      0.71      0.69        43
+weighted avg       0.75      0.72      0.73        43
+
+
+Results for Index122_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.71      0.77        31
+           1       0.47      0.67      0.55        12
+
+    accuracy                           0.70        43
+   macro avg       0.66      0.69      0.66        43
+weighted avg       0.74      0.70      0.71        43
+
+
+Results for Index123_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.62      0.65        26
+           1       0.50      0.59      0.54        17
+
+    accuracy                           0.60        43
+   macro avg       0.60      0.60      0.60        43
+weighted avg       0.62      0.60      0.61        43
+
+
+Results for Index124_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.71      0.77        34
+           1       0.33      0.56      0.42         9
+
+    accuracy                           0.67        43
+   macro avg       0.60      0.63      0.60        43
+weighted avg       0.75      0.67      0.70        43
+
+
+Results for Index125_combined_matrix.csv:
+Accuracy: 53.49%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.51      0.64        35
+           1       0.23      0.62      0.33         8
+
+    accuracy                           0.53        43
+   macro avg       0.54      0.57      0.49        43
+weighted avg       0.74      0.53      0.59        43
+
+
+Results for Index126_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.65      0.75        34
+           1       0.33      0.67      0.44         9
+
+    accuracy                           0.65        43
+   macro avg       0.61      0.66      0.60        43
+weighted avg       0.77      0.65      0.68        43
+
+
+Results for Index127_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.74      0.77        31
+           1       0.43      0.50      0.46        12
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.62      0.61        43
+weighted avg       0.69      0.67      0.68        43
+
+
+Results for Index128_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.83      0.79        30
+           1       0.50      0.38      0.43        13
+
+    accuracy                           0.70        43
+   macro avg       0.63      0.61      0.61        43
+weighted avg       0.68      0.70      0.69        43
+
+
+Results for Index129_combined_matrix.csv:
+Accuracy: 51.16%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.57      0.77      0.66        26
+           1       0.25      0.12      0.16        17
+
+    accuracy                           0.51        43
+   macro avg       0.41      0.44      0.41        43
+weighted avg       0.44      0.51      0.46        43
+
+
+Results for Index130_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.69      0.71        29
+           1       0.44      0.50      0.47        14
+
+    accuracy                           0.63        43
+   macro avg       0.59      0.59      0.59        43
+weighted avg       0.64      0.63      0.63        43
+
+
+Results for Index131_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.72      0.75        29
+           1       0.50      0.57      0.53        14
+
+    accuracy                           0.67        43
+   macro avg       0.64      0.65      0.64        43
+weighted avg       0.69      0.67      0.68        43
+
+
+Results for Index132_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.59      0.64        29
+           1       0.37      0.50      0.42        14
+
+    accuracy                           0.56        43
+   macro avg       0.54      0.54      0.53        43
+weighted avg       0.60      0.56      0.57        43
+
+
+Results for Index133_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.65      0.73        31
+           1       0.42      0.67      0.52        12
+
+    accuracy                           0.65        43
+   macro avg       0.63      0.66      0.62        43
+weighted avg       0.72      0.65      0.67        43
+
+
+Results for Index134_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.67      0.70        30
+           1       0.38      0.46      0.41        13
+
+    accuracy                           0.60        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.63      0.60      0.61        43
+
+
+Results for Index135_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.70      0.77        33
+           1       0.38      0.60      0.46        10
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.65      0.61        43
+weighted avg       0.74      0.67      0.70        43
+
+
+Results for Index136_combined_matrix.csv:
+Accuracy: 53.49%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.55      0.64        33
+           1       0.25      0.50      0.33        10
+
+    accuracy                           0.53        43
+   macro avg       0.52      0.52      0.49        43
+weighted avg       0.66      0.53      0.57        43
+
+
+Results for Index137_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.79      0.81        33
+           1       0.42      0.50      0.45        10
+
+    accuracy                           0.72        43
+   macro avg       0.63      0.64      0.63        43
+weighted avg       0.74      0.72      0.73        43
+
+
+Results for Index138_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.65      0.73        34
+           1       0.29      0.56      0.38         9
+
+    accuracy                           0.63        43
+   macro avg       0.57      0.60      0.56        43
+weighted avg       0.73      0.63      0.66        43
+
+
+Results for Index139_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.76      0.72        29
+           1       0.36      0.29      0.32        14
+
+    accuracy                           0.60        43
+   macro avg       0.53      0.52      0.52        43
+weighted avg       0.58      0.60      0.59        43
+
+
+Results for Index140_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.72      0.77        32
+           1       0.40      0.55      0.46        11
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.63      0.61        43
+weighted avg       0.71      0.67      0.69        43
+
+
+Results for Index141_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.76      0.77        29
+           1       0.53      0.57      0.55        14
+
+    accuracy                           0.70        43
+   macro avg       0.66      0.67      0.66        43
+weighted avg       0.70      0.70      0.70        43
+
+
+Results for Index142_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.66      0.72        29
+           1       0.47      0.64      0.55        14
+
+    accuracy                           0.65        43
+   macro avg       0.63      0.65      0.63        43
+weighted avg       0.69      0.65      0.66        43
+
+
+Results for Index143_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.68      0.69        28
+           1       0.44      0.47      0.45        15
+
+    accuracy                           0.60        43
+   macro avg       0.57      0.57      0.57        43
+weighted avg       0.61      0.60      0.61        43
+
+
+Results for Index144_combined_matrix.csv:
+Accuracy: 44.19%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.64      0.47      0.54        30
+           1       0.24      0.38      0.29        13
+
+    accuracy                           0.44        43
+   macro avg       0.44      0.43      0.42        43
+weighted avg       0.52      0.44      0.46        43
+
+
+Results for Index145_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.59      0.67        32
+           1       0.28      0.45      0.34        11
+
+    accuracy                           0.56        43
+   macro avg       0.52      0.52      0.51        43
+weighted avg       0.64      0.56      0.58        43
+
+
+Results for Index146_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.79      0.77        29
+           1       0.50      0.43      0.46        14
+
+    accuracy                           0.67        43
+   macro avg       0.62      0.61      0.61        43
+weighted avg       0.66      0.67      0.67        43
+
+
+Results for Index147_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.68      0.72        31
+           1       0.38      0.50      0.43        12
+
+    accuracy                           0.63        43
+   macro avg       0.58      0.59      0.58        43
+weighted avg       0.67      0.63      0.64        43
+
+
+Results for Index148_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.79      0.77        28
+           1       0.57      0.53      0.55        15
+
+    accuracy                           0.70        43
+   macro avg       0.67      0.66      0.66        43
+weighted avg       0.69      0.70      0.70        43
+
+
+Results for Index149_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.65      0.73        31
+           1       0.42      0.67      0.52        12
+
+    accuracy                           0.65        43
+   macro avg       0.63      0.66      0.62        43
+weighted avg       0.72      0.65      0.67        43
+
+
+Results for Index150_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.72      0.74        32
+           1       0.31      0.36      0.33        11
+
+    accuracy                           0.63        43
+   macro avg       0.54      0.54      0.54        43
+weighted avg       0.65      0.63      0.64        43
+
+
+Results for Index151_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.69      0.75        32
+           1       0.38      0.55      0.44        11
+
+    accuracy                           0.65        43
+   macro avg       0.59      0.62      0.60        43
+weighted avg       0.70      0.65      0.67        43
+
+
+Results for Index152_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.68      0.69        28
+           1       0.44      0.47      0.45        15
+
+    accuracy                           0.60        43
+   macro avg       0.57      0.57      0.57        43
+weighted avg       0.61      0.60      0.61        43
+
+
+Results for Index153_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.59      0.70        34
+           1       0.30      0.67      0.41         9
+
+    accuracy                           0.60        43
+   macro avg       0.58      0.63      0.56        43
+weighted avg       0.75      0.60      0.64        43
+
+
+Results for Index154_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.74      0.77        31
+           1       0.43      0.50      0.46        12
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.62      0.61        43
+weighted avg       0.69      0.67      0.68        43
+
+
+Results for Index155_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.73      0.77        33
+           1       0.36      0.50      0.42        10
+
+    accuracy                           0.67        43
+   macro avg       0.59      0.61      0.60        43
+weighted avg       0.72      0.67      0.69        43
+
+
+Results for Index156_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.63      0.73        30
+           1       0.48      0.77      0.59        13
+
+    accuracy                           0.67        43
+   macro avg       0.67      0.70      0.66        43
+weighted avg       0.75      0.67      0.69        43
+
+
+Results for Index157_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.74      0.70        27
+           1       0.46      0.38      0.41        16
+
+    accuracy                           0.60        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.59      0.60      0.59        43
+
+
+Results for Index158_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.73      0.77        33
+           1       0.36      0.50      0.42        10
+
+    accuracy                           0.67        43
+   macro avg       0.59      0.61      0.60        43
+weighted avg       0.72      0.67      0.69        43
+
+
+Results for Index159_combined_matrix.csv:
+Accuracy: 51.16%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.64      0.57      0.60        28
+           1       0.33      0.40      0.36        15
+
+    accuracy                           0.51        43
+   macro avg       0.49      0.49      0.48        43
+weighted avg       0.53      0.51      0.52        43
+
+
+Results for Index160_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.81      0.77        31
+           1       0.33      0.25      0.29        12
+
+    accuracy                           0.65        43
+   macro avg       0.53      0.53      0.53        43
+weighted avg       0.62      0.65      0.63        43
+
+
+Results for Index161_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.55      0.65        29
+           1       0.43      0.71      0.54        14
+
+    accuracy                           0.60        43
+   macro avg       0.62      0.63      0.60        43
+weighted avg       0.68      0.60      0.62        43
+
+
+Results for Index162_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.79      0.75        29
+           1       0.45      0.36      0.40        14
+
+    accuracy                           0.65        43
+   macro avg       0.59      0.58      0.58        43
+weighted avg       0.63      0.65      0.64        43
+
+
+Results for Index163_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.67      0.70        30
+           1       0.38      0.46      0.41        13
+
+    accuracy                           0.60        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.63      0.60      0.61        43
+
+
+Results for Index164_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.74      0.77        27
+           1       0.61      0.69      0.65        16
+
+    accuracy                           0.72        43
+   macro avg       0.71      0.71      0.71        43
+weighted avg       0.73      0.72      0.72        43
+
+
+Results for Index165_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.73      0.75        33
+           1       0.25      0.30      0.27        10
+
+    accuracy                           0.63        43
+   macro avg       0.51      0.51      0.51        43
+weighted avg       0.65      0.63      0.64        43
+
+
+Results for Index166_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.60      0.65        30
+           1       0.33      0.46      0.39        13
+
+    accuracy                           0.56        43
+   macro avg       0.53      0.53      0.52        43
+weighted avg       0.60      0.56      0.57        43
+
+
+Results for Index167_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.67      0.75        33
+           1       0.35      0.60      0.44        10
+
+    accuracy                           0.65        43
+   macro avg       0.60      0.63      0.60        43
+weighted avg       0.73      0.65      0.68        43
+
+
+Results for Index168_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.77      0.79        30
+           1       0.53      0.62      0.57        13
+
+    accuracy                           0.72        43
+   macro avg       0.68      0.69      0.68        43
+weighted avg       0.73      0.72      0.73        43
+
+
+Results for Index169_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.68      0.72        31
+           1       0.38      0.50      0.43        12
+
+    accuracy                           0.63        43
+   macro avg       0.58      0.59      0.58        43
+weighted avg       0.67      0.63      0.64        43
+
+
+Results for Index170_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.66      0.71        32
+           1       0.31      0.45      0.37        11
+
+    accuracy                           0.60        43
+   macro avg       0.55      0.56      0.54        43
+weighted avg       0.66      0.60      0.62        43
+
+
+Results for Index171_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.70      0.75        33
+           1       0.33      0.50      0.40        10
+
+    accuracy                           0.65        43
+   macro avg       0.58      0.60      0.58        43
+weighted avg       0.71      0.65      0.67        43
+
+
+Results for Index172_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.69      0.81        35
+           1       0.42      1.00      0.59         8
+
+    accuracy                           0.74        43
+   macro avg       0.71      0.84      0.70        43
+weighted avg       0.89      0.74      0.77        43
+
+
+Results for Index173_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.65      0.71      0.68        28
+           1       0.33      0.27      0.30        15
+
+    accuracy                           0.56        43
+   macro avg       0.49      0.49      0.49        43
+weighted avg       0.54      0.56      0.54        43
+
+
+Results for Index174_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.60      0.69        30
+           1       0.43      0.69      0.53        13
+
+    accuracy                           0.63        43
+   macro avg       0.62      0.65      0.61        43
+weighted avg       0.70      0.63      0.64        43
+
+
+Results for Index175_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.59      0.69        32
+           1       0.35      0.64      0.45        11
+
+    accuracy                           0.60        43
+   macro avg       0.59      0.62      0.57        43
+weighted avg       0.70      0.60      0.63        43
+
+
+Results for Index176_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.56      0.65        32
+           1       0.30      0.55      0.39        11
+
+    accuracy                           0.56        43
+   macro avg       0.54      0.55      0.52        43
+weighted avg       0.66      0.56      0.59        43
+
+
+Results for Index177_combined_matrix.csv:
+Accuracy: 48.84%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.59      0.50      0.54        26
+           1       0.38      0.47      0.42        17
+
+    accuracy                           0.49        43
+   macro avg       0.49      0.49      0.48        43
+weighted avg       0.51      0.49      0.49        43
+
+
+Results for Index178_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.68      0.72        28
+           1       0.50      0.60      0.55        15
+
+    accuracy                           0.65        43
+   macro avg       0.63      0.64      0.63        43
+weighted avg       0.67      0.65      0.66        43
+
+
+Results for Index179_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.74      0.78        31
+           1       0.47      0.58      0.52        12
+
+    accuracy                           0.70        43
+   macro avg       0.64      0.66      0.65        43
+weighted avg       0.72      0.70      0.71        43
+
+
+Results for Index180_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.74      0.81        35
+           1       0.36      0.62      0.45         8
+
+    accuracy                           0.72        43
+   macro avg       0.63      0.68      0.63        43
+weighted avg       0.80      0.72      0.75        43
+
+
+Results for Index181_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.68      0.72        28
+           1       0.50      0.60      0.55        15
+
+    accuracy                           0.65        43
+   macro avg       0.63      0.64      0.63        43
+weighted avg       0.67      0.65      0.66        43
+
+
+Results for Index182_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.74      0.73        27
+           1       0.53      0.50      0.52        16
+
+    accuracy                           0.65        43
+   macro avg       0.62      0.62      0.62        43
+weighted avg       0.65      0.65      0.65        43
+
+
+Results for Index183_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.83      0.82        30
+           1       0.58      0.54      0.56        13
+
+    accuracy                           0.74        43
+   macro avg       0.69      0.69      0.69        43
+weighted avg       0.74      0.74      0.74        43
+
+
+Results for Index184_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.92      0.67      0.77        36
+           1       0.29      0.71      0.42         7
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.69      0.60        43
+weighted avg       0.82      0.67      0.72        43
+
+
+Results for Index185_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.68      0.72        31
+           1       0.38      0.50      0.43        12
+
+    accuracy                           0.63        43
+   macro avg       0.58      0.59      0.58        43
+weighted avg       0.67      0.63      0.64        43
+
+
+Results for Index186_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.63      0.70        30
+           1       0.42      0.62      0.50        13
+
+    accuracy                           0.63        43
+   macro avg       0.61      0.62      0.60        43
+weighted avg       0.68      0.63      0.64        43
+
+
+Results for Index187_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.73      0.76        33
+           1       0.31      0.40      0.35        10
+
+    accuracy                           0.65        43
+   macro avg       0.55      0.56      0.55        43
+weighted avg       0.69      0.65      0.67        43
+
+
+Results for Index188_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.69      0.75        35
+           1       0.21      0.38      0.27         8
+
+    accuracy                           0.63        43
+   macro avg       0.52      0.53      0.51        43
+weighted avg       0.71      0.63      0.66        43
+
+
+Results for Index189_combined_matrix.csv:
+Accuracy: 53.49%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.62      0.67        32
+           1       0.20      0.27      0.23        11
+
+    accuracy                           0.53        43
+   macro avg       0.46      0.45      0.45        43
+weighted avg       0.58      0.53      0.56        43
+
+
+Results for Index190_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.69      0.69        29
+           1       0.36      0.36      0.36        14
+
+    accuracy                           0.58        43
+   macro avg       0.52      0.52      0.52        43
+weighted avg       0.58      0.58      0.58        43
+
+
+Results for Index191_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.67      0.73        33
+           1       0.31      0.50      0.38        10
+
+    accuracy                           0.63        43
+   macro avg       0.56      0.58      0.56        43
+weighted avg       0.70      0.63      0.65        43
+
+
+Results for Index192_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.81      0.75        27
+           1       0.55      0.38      0.44        16
+
+    accuracy                           0.65        43
+   macro avg       0.62      0.59      0.60        43
+weighted avg       0.63      0.65      0.63        43
+
+
+Results for Index193_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.62      0.72        29
+           1       0.50      0.79      0.61        14
+
+    accuracy                           0.67        43
+   macro avg       0.68      0.70      0.67        43
+weighted avg       0.74      0.67      0.68        43
+
+
+Results for Index194_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.67      0.76        33
+           1       0.39      0.70      0.50        10
+
+    accuracy                           0.67        43
+   macro avg       0.63      0.68      0.63        43
+weighted avg       0.77      0.67      0.70        43
+
+
+Results for Index195_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.71      0.76        34
+           1       0.29      0.44      0.35         9
+
+    accuracy                           0.65        43
+   macro avg       0.56      0.58      0.55        43
+weighted avg       0.71      0.65      0.68        43
+
+
+Results for Index196_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.72      0.71        29
+           1       0.38      0.36      0.37        14
+
+    accuracy                           0.60        43
+   macro avg       0.54      0.54      0.54        43
+weighted avg       0.60      0.60      0.60        43
+
+
+Results for Index197_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.69      0.69        29
+           1       0.36      0.36      0.36        14
+
+    accuracy                           0.58        43
+   macro avg       0.52      0.52      0.52        43
+weighted avg       0.58      0.58      0.58        43
+
+
+Results for Index198_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.59      0.70        32
+           1       0.38      0.73      0.50        11
+
+    accuracy                           0.63        43
+   macro avg       0.62      0.66      0.60        43
+weighted avg       0.74      0.63      0.65        43
+
+
+Results for Index199_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.81      0.81        31
+           1       0.50      0.50      0.50        12
+
+    accuracy                           0.72        43
+   macro avg       0.65      0.65      0.65        43
+weighted avg       0.72      0.72      0.72        43
+
+
+Results for Index200_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.72      0.74        29
+           1       0.47      0.50      0.48        14
+
+    accuracy                           0.65        43
+   macro avg       0.61      0.61      0.61        43
+weighted avg       0.66      0.65      0.65        43
+
+
+Results for Index201_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.61      0.64        28
+           1       0.39      0.47      0.42        15
+
+    accuracy                           0.56        43
+   macro avg       0.53      0.54      0.53        43
+weighted avg       0.58      0.56      0.57        43
+
+
+Results for Index202_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.69      0.74        29
+           1       0.50      0.64      0.56        14
+
+    accuracy                           0.67        43
+   macro avg       0.65      0.67      0.65        43
+weighted avg       0.70      0.67      0.68        43
+
+
+Results for Index203_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.61      0.69        31
+           1       0.37      0.58      0.45        12
+
+    accuracy                           0.60        43
+   macro avg       0.58      0.60      0.57        43
+weighted avg       0.67      0.60      0.62        43
+
+
+Results for Index204_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.72      0.73        25
+           1       0.63      0.67      0.65        18
+
+    accuracy                           0.70        43
+   macro avg       0.69      0.69      0.69        43
+weighted avg       0.70      0.70      0.70        43
+
+
+Results for Index205_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.88      0.84        32
+           1       0.50      0.36      0.42        11
+
+    accuracy                           0.74        43
+   macro avg       0.65      0.62      0.63        43
+weighted avg       0.72      0.74      0.73        43
+
+
+Results for Index206_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.59      0.71        34
+           1       0.33      0.78      0.47         9
+
+    accuracy                           0.63        43
+   macro avg       0.62      0.68      0.59        43
+weighted avg       0.79      0.63      0.66        43
+
+
+Results for Index207_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.72      0.75        29
+           1       0.50      0.57      0.53        14
+
+    accuracy                           0.67        43
+   macro avg       0.64      0.65      0.64        43
+weighted avg       0.69      0.67      0.68        43
+
+
+Results for Index208_combined_matrix.csv:
+Accuracy: 46.51%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.65      0.45      0.53        29
+           1       0.30      0.50      0.38        14
+
+    accuracy                           0.47        43
+   macro avg       0.48      0.47      0.45        43
+weighted avg       0.54      0.47      0.48        43
+
+
+Results for Index209_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.79      0.79        33
+           1       0.30      0.30      0.30        10
+
+    accuracy                           0.67        43
+   macro avg       0.54      0.54      0.54        43
+weighted avg       0.67      0.67      0.67        43
+
+
+Results for Index210_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.76      0.73        29
+           1       0.42      0.36      0.38        14
+
+    accuracy                           0.63        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.61      0.63      0.62        43
+
+
+Results for Index211_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.72      0.74        29
+           1       0.47      0.50      0.48        14
+
+    accuracy                           0.65        43
+   macro avg       0.61      0.61      0.61        43
+weighted avg       0.66      0.65      0.65        43
+
+
+Results for Index212_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.59      0.69        32
+           1       0.35      0.64      0.45        11
+
+    accuracy                           0.60        43
+   macro avg       0.59      0.62      0.57        43
+weighted avg       0.70      0.60      0.63        43
+
+
+Results for Index213_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.81      0.72        26
+           1       0.55      0.35      0.43        17
+
+    accuracy                           0.63        43
+   macro avg       0.60      0.58      0.58        43
+weighted avg       0.61      0.63      0.61        43
+
+
+Results for Index214_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.64      0.68        28
+           1       0.44      0.53      0.48        15
+
+    accuracy                           0.60        43
+   macro avg       0.58      0.59      0.58        43
+weighted avg       0.62      0.60      0.61        43
+
+
+Results for Index215_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.82      0.83        33
+           1       0.45      0.50      0.48        10
+
+    accuracy                           0.74        43
+   macro avg       0.65      0.66      0.65        43
+weighted avg       0.75      0.74      0.75        43
+
+
+Results for Index216_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.72      0.77        32
+           1       0.40      0.55      0.46        11
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.63      0.61        43
+weighted avg       0.71      0.67      0.69        43
+
+
+Results for Index217_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.70      0.68        27
+           1       0.43      0.38      0.40        16
+
+    accuracy                           0.58        43
+   macro avg       0.54      0.54      0.54        43
+weighted avg       0.57      0.58      0.57        43
+
+
+Results for Index218_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.76      0.72        29
+           1       0.36      0.29      0.32        14
+
+    accuracy                           0.60        43
+   macro avg       0.53      0.52      0.52        43
+weighted avg       0.58      0.60      0.59        43
+
+
+Results for Index219_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.72      0.75        32
+           1       0.36      0.45      0.40        11
+
+    accuracy                           0.65        43
+   macro avg       0.58      0.59      0.58        43
+weighted avg       0.68      0.65      0.66        43
+
+
+Results for Index220_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.61      0.65        28
+           1       0.42      0.53      0.47        15
+
+    accuracy                           0.58        43
+   macro avg       0.56      0.57      0.56        43
+weighted avg       0.61      0.58      0.59        43
+
+
+Results for Index221_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.77      0.77        30
+           1       0.46      0.46      0.46        13
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.61      0.61        43
+weighted avg       0.67      0.67      0.67        43
+
+
+Results for Index222_combined_matrix.csv:
+Accuracy: 51.16%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.61      0.63      0.62        27
+           1       0.33      0.31      0.32        16
+
+    accuracy                           0.51        43
+   macro avg       0.47      0.47      0.47        43
+weighted avg       0.51      0.51      0.51        43
+
+
+Results for Index223_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.72      0.74        32
+           1       0.31      0.36      0.33        11
+
+    accuracy                           0.63        43
+   macro avg       0.54      0.54      0.54        43
+weighted avg       0.65      0.63      0.64        43
+
+
+Results for Index224_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.83      0.81        30
+           1       0.55      0.46      0.50        13
+
+    accuracy                           0.72        43
+   macro avg       0.66      0.65      0.65        43
+weighted avg       0.71      0.72      0.71        43
+
+
+Results for Index225_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.61      0.76      0.68        25
+           1       0.50      0.33      0.40        18
+
+    accuracy                           0.58        43
+   macro avg       0.56      0.55      0.54        43
+weighted avg       0.57      0.58      0.56        43
+
+
+Results for Index226_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.62      0.61        24
+           1       0.50      0.47      0.49        19
+
+    accuracy                           0.56        43
+   macro avg       0.55      0.55      0.55        43
+weighted avg       0.56      0.56      0.56        43
+
+
+Results for Index227_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.57      0.67        30
+           1       0.41      0.69      0.51        13
+
+    accuracy                           0.60        43
+   macro avg       0.61      0.63      0.59        43
+weighted avg       0.69      0.60      0.62        43
+
+
+Results for Index228_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.79      0.81        33
+           1       0.42      0.50      0.45        10
+
+    accuracy                           0.72        43
+   macro avg       0.63      0.64      0.63        43
+weighted avg       0.74      0.72      0.73        43
+
+
+Results for Index229_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.69      0.69        29
+           1       0.36      0.36      0.36        14
+
+    accuracy                           0.58        43
+   macro avg       0.52      0.52      0.52        43
+weighted avg       0.58      0.58      0.58        43
+
+
+Results for Index230_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.51      0.65        35
+           1       0.26      0.75      0.39         8
+
+    accuracy                           0.56        43
+   macro avg       0.58      0.63      0.52        43
+weighted avg       0.78      0.56      0.60        43
+
+
+Results for Index231_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.69      0.75        32
+           1       0.38      0.55      0.44        11
+
+    accuracy                           0.65        43
+   macro avg       0.59      0.62      0.60        43
+weighted avg       0.70      0.65      0.67        43
+
+
+Results for Index232_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.69      0.71        29
+           1       0.44      0.50      0.47        14
+
+    accuracy                           0.63        43
+   macro avg       0.59      0.59      0.59        43
+weighted avg       0.64      0.63      0.63        43
+
+
+Results for Index233_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.73      0.71      0.72        31
+           1       0.31      0.33      0.32        12
+
+    accuracy                           0.60        43
+   macro avg       0.52      0.52      0.52        43
+weighted avg       0.61      0.60      0.61        43
+
+
+Results for Index234_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.61      0.69        31
+           1       0.37      0.58      0.45        12
+
+    accuracy                           0.60        43
+   macro avg       0.58      0.60      0.57        43
+weighted avg       0.67      0.60      0.62        43
+
+
+Results for Index235_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.61      0.64        28
+           1       0.39      0.47      0.42        15
+
+    accuracy                           0.56        43
+   macro avg       0.53      0.54      0.53        43
+weighted avg       0.58      0.56      0.57        43
+
+
+Results for Index236_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.77      0.81        30
+           1       0.56      0.69      0.62        13
+
+    accuracy                           0.74        43
+   macro avg       0.71      0.73      0.71        43
+weighted avg       0.76      0.74      0.75        43
+
+
+Results for Index237_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.73      0.76        33
+           1       0.31      0.40      0.35        10
+
+    accuracy                           0.65        43
+   macro avg       0.55      0.56      0.55        43
+weighted avg       0.69      0.65      0.67        43
+
+
+Results for Index238_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.65      0.71        34
+           1       0.20      0.33      0.25         9
+
+    accuracy                           0.58        43
+   macro avg       0.49      0.49      0.48        43
+weighted avg       0.66      0.58      0.61        43
+
+
+Results for Index239_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.62      0.74        32
+           1       0.43      0.82      0.56        11
+
+    accuracy                           0.67        43
+   macro avg       0.67      0.72      0.65        43
+weighted avg       0.79      0.67      0.70        43
+
+
+Results for Index240_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.74      0.72        31
+           1       0.20      0.17      0.18        12
+
+    accuracy                           0.58        43
+   macro avg       0.45      0.45      0.45        43
+weighted avg       0.56      0.58      0.57        43
+
+
+Results for Index241_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.70      0.72        30
+           1       0.40      0.46      0.43        13
+
+    accuracy                           0.63        43
+   macro avg       0.57      0.58      0.58        43
+weighted avg       0.64      0.63      0.63        43
+
+
+Results for Index242_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.69      0.76        32
+           1       0.41      0.64      0.50        11
+
+    accuracy                           0.67        43
+   macro avg       0.63      0.66      0.63        43
+weighted avg       0.74      0.67      0.69        43
+
+
+Results for Index243_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.66      0.70        32
+           1       0.27      0.36      0.31        11
+
+    accuracy                           0.58        43
+   macro avg       0.51      0.51      0.50        43
+weighted avg       0.63      0.58      0.60        43
+
+
+Results for Index244_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.71      0.77        34
+           1       0.33      0.56      0.42         9
+
+    accuracy                           0.67        43
+   macro avg       0.60      0.63      0.60        43
+weighted avg       0.75      0.67      0.70        43
+
+
+Results for Index245_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.72      0.78        32
+           1       0.44      0.64      0.52        11
+
+    accuracy                           0.70        43
+   macro avg       0.64      0.68      0.65        43
+weighted avg       0.75      0.70      0.71        43
+
+
+Results for Index246_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.68      0.67        28
+           1       0.36      0.33      0.34        15
+
+    accuracy                           0.56        43
+   macro avg       0.51      0.51      0.51        43
+weighted avg       0.55      0.56      0.55        43
+
+
+Results for Index247_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.79      0.81        34
+           1       0.30      0.33      0.32         9
+
+    accuracy                           0.70        43
+   macro avg       0.56      0.56      0.56        43
+weighted avg       0.71      0.70      0.70        43
+
+
+Results for Index248_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.74      0.78        31
+           1       0.47      0.58      0.52        12
+
+    accuracy                           0.70        43
+   macro avg       0.64      0.66      0.65        43
+weighted avg       0.72      0.70      0.71        43
+
+
+Results for Index249_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.67      0.69        30
+           1       0.33      0.38      0.36        13
+
+    accuracy                           0.58        43
+   macro avg       0.52      0.53      0.52        43
+weighted avg       0.60      0.58      0.59        43
+
+
+Results for Index250_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.57      0.65        30
+           1       0.38      0.62      0.47        13
+
+    accuracy                           0.58        43
+   macro avg       0.58      0.59      0.56        43
+weighted avg       0.65      0.58      0.60        43
+
+
+Results for Index251_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.81      0.74        26
+           1       0.58      0.41      0.48        17
+
+    accuracy                           0.65        43
+   macro avg       0.63      0.61      0.61        43
+weighted avg       0.64      0.65      0.64        43
+
+
+Results for Index252_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.67      0.68        30
+           1       0.29      0.31      0.30        13
+
+    accuracy                           0.56        43
+   macro avg       0.49      0.49      0.49        43
+weighted avg       0.57      0.56      0.56        43
+
+
+Results for Index253_combined_matrix.csv:
+Accuracy: 51.16%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.53      0.60        30
+           1       0.30      0.46      0.36        13
+
+    accuracy                           0.51        43
+   macro avg       0.50      0.50      0.48        43
+weighted avg       0.58      0.51      0.53        43
+
+
+Results for Index254_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.70      0.77        33
+           1       0.38      0.60      0.46        10
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.65      0.61        43
+weighted avg       0.74      0.67      0.70        43
+
+
+Results for Index255_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.62      0.65        29
+           1       0.35      0.43      0.39        14
+
+    accuracy                           0.56        43
+   macro avg       0.52      0.52      0.52        43
+weighted avg       0.58      0.56      0.57        43
+
+
+Results for Index256_combined_matrix.csv:
+Accuracy: 46.51%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.59      0.57      0.58        28
+           1       0.25      0.27      0.26        15
+
+    accuracy                           0.47        43
+   macro avg       0.42      0.42      0.42        43
+weighted avg       0.47      0.47      0.47        43
+
+
+Results for Index257_combined_matrix.csv:
+Accuracy: 55.81%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.67      0.68        30
+           1       0.29      0.31      0.30        13
+
+    accuracy                           0.56        43
+   macro avg       0.49      0.49      0.49        43
+weighted avg       0.57      0.56      0.56        43
+
+
+Results for Index258_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.60      0.68        30
+           1       0.40      0.62      0.48        13
+
+    accuracy                           0.60        43
+   macro avg       0.59      0.61      0.58        43
+weighted avg       0.67      0.60      0.62        43
+
+
+Results for Index259_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.73      0.76        33
+           1       0.31      0.40      0.35        10
+
+    accuracy                           0.65        43
+   macro avg       0.55      0.56      0.55        43
+weighted avg       0.69      0.65      0.67        43
+
+
+Results for Index260_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.92      0.67      0.77        33
+           1       0.42      0.80      0.55        10
+
+    accuracy                           0.70        43
+   macro avg       0.67      0.73      0.66        43
+weighted avg       0.80      0.70      0.72        43
+
+
+Results for Index261_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.63      0.83      0.72        23
+           1       0.69      0.45      0.55        20
+
+    accuracy                           0.65        43
+   macro avg       0.66      0.64      0.63        43
+weighted avg       0.66      0.65      0.64        43
+
+
+Results for Index262_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.78      0.72      0.75        29
+           1       0.50      0.57      0.53        14
+
+    accuracy                           0.67        43
+   macro avg       0.64      0.65      0.64        43
+weighted avg       0.69      0.67      0.68        43
+
+
+Results for Index263_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.75      0.75        32
+           1       0.27      0.27      0.27        11
+
+    accuracy                           0.63        43
+   macro avg       0.51      0.51      0.51        43
+weighted avg       0.63      0.63      0.63        43
+
+
+Results for Index264_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.66      0.68        29
+           1       0.38      0.43      0.40        14
+
+    accuracy                           0.58        43
+   macro avg       0.54      0.54      0.54        43
+weighted avg       0.60      0.58      0.59        43
+
+
+Results for Index265_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.77      0.77        30
+           1       0.46      0.46      0.46        13
+
+    accuracy                           0.67        43
+   macro avg       0.61      0.61      0.61        43
+weighted avg       0.67      0.67      0.67        43
+
+
+Results for Index266_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.73      0.77        33
+           1       0.36      0.50      0.42        10
+
+    accuracy                           0.67        43
+   macro avg       0.59      0.61      0.60        43
+weighted avg       0.72      0.67      0.69        43
+
+
+Results for Index267_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.63      0.79      0.70        24
+           1       0.62      0.42      0.50        19
+
+    accuracy                           0.63        43
+   macro avg       0.62      0.61      0.60        43
+weighted avg       0.63      0.63      0.61        43
+
+
+Results for Index268_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.64      0.68        28
+           1       0.44      0.53      0.48        15
+
+    accuracy                           0.60        43
+   macro avg       0.58      0.59      0.58        43
+weighted avg       0.62      0.60      0.61        43
+
+
+Results for Index269_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.63      0.72        35
+           1       0.24      0.50      0.32         8
+
+    accuracy                           0.60        43
+   macro avg       0.54      0.56      0.52        43
+weighted avg       0.73      0.60      0.65        43
+
+
+Results for Index270_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.67      0.73        30
+           1       0.44      0.62      0.52        13
+
+    accuracy                           0.65        43
+   macro avg       0.62      0.64      0.62        43
+weighted avg       0.69      0.65      0.66        43
+
+
+Results for Index271_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.68      0.71        31
+           1       0.33      0.42      0.37        12
+
+    accuracy                           0.60        43
+   macro avg       0.54      0.55      0.54        43
+weighted avg       0.63      0.60      0.62        43
+
+
+Results for Index272_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.73      0.57      0.64        28
+           1       0.43      0.60      0.50        15
+
+    accuracy                           0.58        43
+   macro avg       0.58      0.59      0.57        43
+weighted avg       0.62      0.58      0.59        43
+
+
+Results for Index273_combined_matrix.csv:
+Accuracy: 72.09%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.79      0.79        28
+           1       0.60      0.60      0.60        15
+
+    accuracy                           0.72        43
+   macro avg       0.69      0.69      0.69        43
+weighted avg       0.72      0.72      0.72        43
+
+
+Results for Index274_combined_matrix.csv:
+Accuracy: 62.79%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.59      0.68        29
+           1       0.45      0.71      0.56        14
+
+    accuracy                           0.63        43
+   macro avg       0.63      0.65      0.62        43
+weighted avg       0.69      0.63      0.64        43
+
+
+Results for Index275_combined_matrix.csv:
+Accuracy: 74.42%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.83      0.81        29
+           1       0.62      0.57      0.59        14
+
+    accuracy                           0.74        43
+   macro avg       0.71      0.70      0.70        43
+weighted avg       0.74      0.74      0.74        43
+
+
+Results for Index276_combined_matrix.csv:
+Accuracy: 48.84%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.55      0.61        31
+           1       0.22      0.33      0.27        12
+
+    accuracy                           0.49        43
+   macro avg       0.45      0.44      0.44        43
+weighted avg       0.55      0.49      0.51        43
+
+
+Results for Index277_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.81      0.75        26
+           1       0.62      0.47      0.53        17
+
+    accuracy                           0.67        43
+   macro avg       0.66      0.64      0.64        43
+weighted avg       0.67      0.67      0.66        43
+
+
+Results for Index278_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.63      0.69        30
+           1       0.39      0.54      0.45        13
+
+    accuracy                           0.60        43
+   macro avg       0.57      0.59      0.57        43
+weighted avg       0.65      0.60      0.62        43
+
+
+Results for Index279_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.73      0.63      0.68        30
+           1       0.35      0.46      0.40        13
+
+    accuracy                           0.58        43
+   macro avg       0.54      0.55      0.54        43
+weighted avg       0.62      0.58      0.59        43
+
+
+Results for Index280_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.59      0.65        29
+           1       0.40      0.57      0.47        14
+
+    accuracy                           0.58        43
+   macro avg       0.57      0.58      0.56        43
+weighted avg       0.63      0.58      0.59        43
+
+
+Results for Index281_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.84      0.79        32
+           1       0.29      0.18      0.22        11
+
+    accuracy                           0.67        43
+   macro avg       0.52      0.51      0.51        43
+weighted avg       0.63      0.67      0.65        43
+
+
+Results for Index282_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.65      0.69        31
+           1       0.31      0.42      0.36        12
+
+    accuracy                           0.58        43
+   macro avg       0.53      0.53      0.52        43
+weighted avg       0.62      0.58      0.60        43
+
+
+Results for Index283_combined_matrix.csv:
+Accuracy: 65.12%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.74      0.73        27
+           1       0.53      0.50      0.52        16
+
+    accuracy                           0.65        43
+   macro avg       0.62      0.62      0.62        43
+weighted avg       0.65      0.65      0.65        43
+
+
+Results for Index284_combined_matrix.csv:
+Accuracy: 69.77%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.67      0.75        30
+           1       0.50      0.77      0.61        13
+
+    accuracy                           0.70        43
+   macro avg       0.68      0.72      0.68        43
+weighted avg       0.76      0.70      0.71        43
+
+
+Results for Index285_combined_matrix.csv:
+Accuracy: 60.47%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.79      0.67      0.72        33
+           1       0.27      0.40      0.32        10
+
+    accuracy                           0.60        43
+   macro avg       0.53      0.53      0.52        43
+weighted avg       0.67      0.60      0.63        43
+
+
+Results for Index286_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.78      0.75        27
+           1       0.57      0.50      0.53        16
+
+    accuracy                           0.67        43
+   macro avg       0.65      0.64      0.64        43
+weighted avg       0.67      0.67      0.67        43
+
+
+Results for Index287_combined_matrix.csv:
+Accuracy: 67.44%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.76      0.76        29
+           1       0.50      0.50      0.50        14
+
+    accuracy                           0.67        43
+   macro avg       0.63      0.63      0.63        43
+weighted avg       0.67      0.67      0.67        43
+
+
+Results for Index288_combined_matrix.csv:
+Accuracy: 58.14%
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.73      0.63      0.68        30
+           1       0.35      0.46      0.40        13
+
+    accuracy                           0.58        43
+   macro avg       0.54      0.55      0.54        43
+weighted avg       0.62      0.58      0.59        43
+
+
