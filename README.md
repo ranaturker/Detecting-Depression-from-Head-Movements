@@ -13,3 +13,10 @@ random_state function to ensure consistency across replicates. To further valida
 of the model and reduce bias, Leave-One-Out Cross Validation (LOOCV) was used. This
 approach maximizes the utility of the dataset by ensuring that each sample is used for both
 training and testing, providing a robust performance evaluation.
+
+<img width="660" alt="Screenshot 2025-01-28 at 1 34 49 PM" src="https://github.com/user-attachments/assets/c23ff7d5-7389-46c3-9e78-404df3c5fde4" />
+
+<img width="660" alt="Screenshot 2025-01-28 at 1 32 37 PM" src="https://github.com/user-attachments/assets/e9bed50e-76ee-4b03-8729-632beceaaf1a" />
+
+
+
